@@ -1,0 +1,30 @@
+commit 519667d55595deb411cc83dcee4aaebd6b726629
+Author: Jonny Shaw <tech11@stormd.com>
+Date:   Fri Jan 5 14:07:45 2018 -0500
+
+    reorganize file structures and locations in various places
+
+commit df7227c1e8f9bce7f7e7d4ee378efbc1cf3522de
+Author: Jonny Shaw <tech11@stormd.com>
+Date:   Wed Dec 27 17:15:44 2017 -0500
+
+    reorganize file structures and locations
+
+commit bc40c4d814c7a9376598ad2d128795afd1809fd3
+Author: Jonny Shaw <tech11@stormd.com>
+Date:   Wed Dec 27 16:10:19 2017 -0500
+
+    removed second redshirt file
+
+commit 42d572996eff2e58c3f9179bc7e2fccbf196ec76
+Author: Jonny Shaw <tech11@stormd.com>
+Date:   Wed Dec 27 16:07:30 2017 -0500
+
+    Deleted 1 redshirt file
+
+commit 389f3ed69c526841124072311933668256bdf4a4
+Author: Jonny Shaw <tech11@stormd.com>
+Date:   Wed Dec 27 16:04:23 2017 -0500
+
+    adding red shirt files
+
